@@ -5,5 +5,5 @@ def prime?(interger)
 else
   (2.. ( integer -1)).each.do |num|
     return false
-    if integer%
+    if integer% num==0
 end
