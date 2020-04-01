@@ -3,5 +3,6 @@ def prime?(interger)
  if integers < 2
   return false
 else
-  (2.. ( integer -1)).each.do
+  (2.. ( integer -1)).each.do |num|
+    return false
 end
