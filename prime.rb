@@ -2,4 +2,6 @@
 def prime?(interger)
  if integers < 2
   return false
+else
+  
 end
