@@ -1,3 +1,4 @@
 # Add  code here!
 def prime?(interger)
-  integers
+  integers < 2
+end
