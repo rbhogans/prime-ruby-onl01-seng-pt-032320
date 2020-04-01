@@ -7,3 +7,6 @@ else
     return false
     if integer % num==0
 end
+true
+end
+end
